@@ -1,0 +1,7 @@
+git init
+git remote add origin git@github.com:bxxfighting/buxingxing.git
+
+git pull git@github.com:bxxfighting/buxingxing.git
+
+
+git add .    （这后面是一个英文的句号）
